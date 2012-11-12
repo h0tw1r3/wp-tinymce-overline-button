@@ -28,7 +28,7 @@
 				longname : 'Overline Button Plugin',
 				author : 'h0tw1r3',
 				authorurl : 'http://github.com/h0tw1r3/',
-				infourl : 'http://github.com/h0tw1r3/wp-tinymce-overline',
+				infourl : 'http://github.com/h0tw1r3/wp-tinymce-overline-button',
 				version : '1.0'
 			};
 		}
